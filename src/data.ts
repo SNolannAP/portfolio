@@ -111,18 +111,18 @@ export const projects: Project[] = [
     title: 'SPARK - Real-time Chat Platform',
     description: 'A modern chat application built with Socket.io and React, featuring real-time messaging and user presence indicators.',
     technologies: ['React', 'Socket.io', 'Express', 'TailwindCSS', 'Node.js'],
-    image: 'https://images.unsplash.com/photo-1611746872915-64382b5c76da?auto=format&fit=crop&q=80&w=2000',
-    link: 'https://github.com/yourusername/chat-platform',
+    image: 'https://img001.prntscr.com/file/img001/uX2OwSPyQWinfUIUwGTJmQ.png',
+    link: 'https://github.com/snolannap/spark-chatapp',
     features: ['Real-time Messaging', 'User Presence', 'Message History', 'Responsive Design']
-  },
-  {
-    title: 'Task Management System',
-    description: 'A comprehensive project management tool with drag-and-drop task organization and team collaboration features.',
-    technologies: ['TypeScript', 'React', 'Express', 'TailwindCSS'],
-    image: 'https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?auto=format&fit=crop&q=80&w=2000',
-    link: 'https://github.com/yourusername/task-manager',
-    features: ['Drag-and-drop interface', 'Team collaboration', 'Task tracking', 'Progress analytics']
   }
+  // ,{
+  //   title: 'Task Management System',
+  //   description: 'A comprehensive project management tool with drag-and-drop task organization and team collaboration features.',
+  //   technologies: ['TypeScript', 'React', 'Express', 'TailwindCSS'],
+  //   image: 'https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?auto=format&fit=crop&q=80&w=2000',
+  //   link: 'https://github.com/yourusername/task-manager',
+  //   features: ['Drag-and-drop interface', 'Team collaboration', 'Task tracking', 'Progress analytics']
+  // }
 ];
 
 export const aboutSections: AboutSection[] = [
