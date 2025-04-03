@@ -11,96 +11,66 @@ export const skills = {
   frontend: [
     {
       name: 'HTML5',
-      level: 92,
-      color: '#E34F26',
       icon: FaHtml5
     },
     {
       name: 'CSS3',
-      level: 92,
-      color: '#E34F26',
       icon: FaCss3
     },
     {
       name: 'JavaScript',
-      level: 90,
-      color: '#F7DF1E',
       icon: IoLogoJavascript
     },
     {
       name: 'TypeScript',
-      level: 82,
-      color: '#3178C6',
       icon: SiTypescript
     },
     {
       name: 'React',
-      level: 88,
-      color: '#61DAFB',
       icon: FaReact
     },
     {
       name: 'TailwindCSS',
-      level: 75,
-      color: '#38B2AC',
       icon: RiTailwindCssFill
     },
     {
       name: 'Bootstrap',
-      level: 80,
-      color: '#7952B3',
       icon: FaBootstrap
     }
   ],
   backend: [
     {
       name: 'Node.js',
-      level: 82,
-      color: '#339933',
       icon: FaNodeJs
     },
     {
       name: 'Express',
-      level: 75,
-      color: '#000000',
       icon: SiExpress
     },
     {
       name: 'Socket.io',
-      level: 69,
-      color: '#010101',
       icon: TbBrandSocketIo
     }
   ],
   tools: [
     {
       name: 'Visual Studio Code',
-      color: '#007ACC',
-      level: 0,
       icon: VscVscode
     },
     {
       name: 'GitHub',
-      color: '#181717',
-      level: 0,
       icon: GithubIcon
     },
     {
       name: 'NPM',
-      color: '#CB3837',
-      level: 0,
       icon: FaNpm
     },
     {
       name: 'XAMPP',
-      color: '#CB3837',
-      level: 0,
       icon: SiXampp
     },
     {
       name: 'Vite',
-      color: '#646CFF',
-      level: 0,
       icon: SiVitest
     }
   ]
