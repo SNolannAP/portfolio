@@ -2,7 +2,7 @@ import { FaBootstrap, FaCss3, FaHtml5, FaNodeJs, FaNpm, FaReact } from 'react-ic
 import { Project, AboutSection } from './types';
 import { Coffee, Rocket, Heart, Globe, Github as GithubIcon } from 'lucide-react';
 import { RiTailwindCssFill } from 'react-icons/ri';
-import { SiExpress, SiTypescript, SiVitest, SiXampp } from 'react-icons/si';
+import { SiBun, SiExpress, SiFilezilla, SiNextdotjs, SiPython, SiTypescript, SiVitest, SiXampp } from 'react-icons/si';
 import { TbBrandSocketIo } from 'react-icons/tb';
 import { VscVscode } from 'react-icons/vsc';
 import { IoLogoJavascript } from 'react-icons/io';
@@ -20,6 +20,10 @@ export const skills = {
     {
       name: 'JavaScript',
       icon: IoLogoJavascript
+    },
+    {
+      name: 'Python',
+      icon: SiPython
     },
     {
       name: 'TypeScript',
@@ -42,6 +46,10 @@ export const skills = {
     {
       name: 'Node.js',
       icon: FaNodeJs
+    },
+    {
+      name: 'Next.js',
+      icon: SiNextdotjs
     },
     {
       name: 'Express',
@@ -68,6 +76,14 @@ export const skills = {
     {
       name: 'XAMPP',
       icon: SiXampp
+    },
+    {
+      name: 'Bun',
+      icon: SiBun
+    },
+    {
+      name: 'FileZilla',
+      icon: SiFilezilla
     },
     {
       name: 'Vite',
